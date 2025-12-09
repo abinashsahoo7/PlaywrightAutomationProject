@@ -1,0 +1,28 @@
+{
+  "name": "playwriteautomation",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "regression": "npx playwright test",
+    "regressionWithTag": "npx playwright test --grep @web",
+    "cucumberRegression": "npx cucumber -js --tags '@Regression' --retry1 --exit --format html:cucumber-report.html"
+  },
+  "dependencies": {
+    "@cucumber/cucumber": "^12.3.0",
+    "exceljs": "^4.4.0"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.56.1",
+    "@types/node": "^24.8.1",
+    "allure-commandline": "^2.34.1",
+    "allure-playwright": "^3.4.2"
+  }
+}

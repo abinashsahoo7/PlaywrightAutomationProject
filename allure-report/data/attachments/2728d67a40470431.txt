@@ -1,0 +1,9 @@
+[
+  'ZARA COAT 3',
+  'ADIDAS ORIGINAL',
+  'iphone 13 pro',
+  'Mutton-Automation',
+  'Mutton-Automation',
+  'Rest-Automation',
+  'Deepti-Laptop'
+]

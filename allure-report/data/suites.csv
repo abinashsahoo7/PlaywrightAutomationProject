@@ -1,0 +1,7 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","40535","@Web Client App login Zara Coat 4","","Fri Nov 21 15:24:57 IST 2025","broken","Fri Nov 21 15:25:37 IST 2025","","ClientAppPo.spec.js","",""
+"","6175","Visual Testing","","Fri Nov 21 15:10:20 IST 2025","failed","Fri Nov 21 15:10:26 IST 2025","","MoreValidations.spec.js","",""
+"","542","Browser Context Playwrite Test","","Fri Nov 21 15:10:29 IST 2025","failed","Fri Nov 21 15:10:29 IST 2025","","WebApiPart1.spec.js","",""
+"","40465","@Web Client App login Adidas Orignals","","Fri Nov 21 15:25:41 IST 2025","broken","Fri Nov 21 15:26:21 IST 2025","","ClientAppPo.spec.js","",""
+"","4385","Playwright special locators","","Fri Nov 21 15:10:35 IST 2025","failed","Fri Nov 21 15:10:39 IST 2025","","UISpecialLocatorNew.spec.js","",""
+"","12863","Playwright special locators","","Fri Nov 21 15:10:06 IST 2025","passed","Fri Nov 21 15:10:19 IST 2025","","UISpecialLocator.spec.js","",""
