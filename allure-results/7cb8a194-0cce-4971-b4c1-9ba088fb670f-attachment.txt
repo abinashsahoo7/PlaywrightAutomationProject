@@ -1,0 +1,10 @@
+[
+  'Deepti-Laptop',
+  'Rest-Automation',
+  'Mutton-Automation',
+  'Mutton-Automation',
+  'ZARA COAT 3',
+  'ADIDAS ORIGINAL',
+  'iphone 13 pro'
+]
+ | 6940fe4832ed865871369ca2 | 

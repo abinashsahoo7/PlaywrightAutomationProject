@@ -15,6 +15,7 @@ export default defineConfig({
   },
   reporter: 'html',
   //reporter: [["line"], ["allure-playwright"]],
+
   //name: 'Edge',
   use: {
     browserName: 'chromium',

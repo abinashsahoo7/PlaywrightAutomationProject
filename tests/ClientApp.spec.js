@@ -70,7 +70,7 @@ test('Child Window Handelling', async ({browser})=>
    const [newPage] = await Promise.all([
 
    context.waitForEvent('page'),
-   await documentLink.click(),
+    documentLink.click(),
    
    ])
    const text1 = await newPage.locator(".red").textContent();
